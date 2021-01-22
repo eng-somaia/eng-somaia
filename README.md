@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Somaia, a passionate learner for creating user-friendly solutions.
+
 <!--
 **eng-somaia/eng-somaia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
